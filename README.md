@@ -1,6 +1,6 @@
 # Introduction
 
-# 🌌 Spacewind
+# 🌌 Spacewind-Innovation
 
 **Innovating the Future with AI & GenAI**
 
