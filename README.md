@@ -20,7 +20,7 @@ We focus on building unique AI-driven features, solutions, and products that cha
 
 ## 🌍 Connect With Us
 - Website: [spacewind.xyz](https://spacewind.xyz)  
-- GitHub: [github.com/spacewind](https://github.com/spacewind)  
+- GitHub: [github.com/spacewind](https://github.com/spacewind-innovation)  
 - LinkedIn: Coming soon...  
 
 ---
